@@ -20,7 +20,7 @@ Demands (for a private pool).
 <!-- :::parents::: -->
 :::moniker range=">=azure-pipelines-2019"
 
-Definitions that that reference this definition: [pool](pool.md)
+Definitions that reference this definition: [pool](pool.md)
 
 :::moniker-end
 <!-- :::parents-end::: -->
